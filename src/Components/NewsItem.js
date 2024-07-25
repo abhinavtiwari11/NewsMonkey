@@ -8,7 +8,7 @@ const NewsItem = (props) => {
         <img
           src={
             !imageUrl
-              ? "https://static.vecteezy.com/system/resources/thumbnails/006/299/370/original/world-breaking-news-digital-earth-hud-rotating-globe-rotating-free-video.jpg"
+              ? "https://media.istockphoto.com/id/1250020807/vector/breaking-news-vector-background-tv-channel-emergency-broadcasting-headline-backdrop.jpg?s=1024x1024&w=is&k=20&c=qtyLOhokW6W7EbhLqaMzxBCW6z0cFtTDYVdmPgdaxNE="
               : imageUrl
           }
           className="card-img-top"
